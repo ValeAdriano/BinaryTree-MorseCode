@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88cb1db3-0652-422f-80fe-02441fd0ab29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fill-Flood/src/Fila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fill-Flood/src/FloodFill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fill-Flood/src/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fill-Flood/src/Pilha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fill-Flood/src/imagem-antes.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree-MorseCode/src/ArvoreCodigoMorse$No.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree-MorseCode/src/ArvoreCodigoMorse$No.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree-MorseCode/src/ArvoreCodigoMorse.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree-MorseCode/src/ArvoreCodigoMorse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree-MorseCode/src/ArvoreCodigoMorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree-MorseCode/src/ArvoreCodigoMorse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree-MorseCode/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree-MorseCode/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree-MorseCode/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree-MorseCode/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree-MorseCode/src/VisualizarArvore.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree-MorseCode/src/VisualizarArvore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree-MorseCode/src/VisualizarArvore.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree-MorseCode/src/VisualizarArvore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +26,20 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2mylddqtcW7pYoseCJFwIOuQrTW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Adriano Vale/Documents/GitHub/BinaryTree-MorseCode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Adriano Vale/Documents/GitHub/BinaryTree-MorseCode"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
